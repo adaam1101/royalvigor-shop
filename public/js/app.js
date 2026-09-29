@@ -176,57 +176,12 @@ const translations = {
   }
 };
 
-// Customer Reviews Seed
-const customerReviews = [
-  {
-    name_ar: "سمير . ب (الجزائر العاصمة)",
-    name_en: "Samir B. (Algiers)",
-    product: "عسل السر العثماني",
-    product_en: "Ottoman Secret Vitality Honey",
-    stars: 5,
-    date: "منذ يومين",
-    comment_ar: "ما شاء الله منتج أصلي ومفعول غير عادي، والأهم من ذلك التغليف كان سري للغاية ومحكم. اتصلوا بي بعد نصف ساعة وأكدوا الطلب ووصلني في أقل من 24 ساعة.",
-    comment_en: "Exceptional quality and genuine product. Ultra discreet packaging, fast phone confirmation, and delivery took less than 24 hours in Algiers."
-  },
-  {
-    name_ar: "خالد . م (وهران)",
-    name_en: "Khaled M. (Oran)",
-    product: "عسل شداد القوة",
-    product_en: "Shaddad Al-Quwa Herbal Honey",
-    stars: 5,
-    date: "منذ 4 أيام",
-    comment_ar: "جربت عسل شداد القوة، طاقة ونشاط رهيب وتأثير يدوم طويلاً. تعامل محترم وسرية تامة والتوصيل سريع جداً.",
-    comment_en: "Shaddad Al-Quwa gave me incredible energy and stamina. Very polite and discreet service and swift dispatch."
-  },
-  {
-    name_ar: "عبد الرؤوف (سطيف)",
-    name_en: "Abderraouf (Sétif)",
-    product: "عسل السر العثماني",
-    product_en: "Ottoman Secret Vitality Honey",
-    stars: 5,
-    date: "منذ أسبوع",
-    comment_ar: "عسل السر العثماني الأصلي 100%، المرطبان مليء بالأعشاب الطبيعية والمذاق ممتاز. شكراً للمتجر على المصداقية وسرعة التوصيل.",
-    comment_en: "100% genuine Ottoman Secret honey, rich in natural herbs and excellent taste. High credibility and prompt support."
-  },
-  {
-    name_ar: "ياسين . ع (قسنطينة)",
-    name_en: "Yassine A. (Constantine)",
-    product: "عسل شداد القوة",
-    product_en: "Shaddad Al-Quwa Herbal Honey",
-    stars: 5,
-    date: "منذ أسبوع",
-    comment_ar: "استلمت من مكتب التوصيل بستوب ديسك ووفرت في مصاريف الشحن، الطرد كان مغلف بغلاف أسود محكم لا يمكن معرفة ما بداخله أبداً.",
-    comment_en: "Picked up at the stop desk, saved on shipping, package was sealed in black wrap. Pure discretion!"
-  }
-];
-
 // Initialize Application
 document.addEventListener('DOMContentLoaded', async () => {
   setupLanguage();
   setupEventListeners();
   await loadStoreData();
   renderProducts();
-  renderReviews();
   updateCartBadge();
   populateWilayasDropdown();
 });
@@ -249,7 +204,6 @@ function toggleLanguage() {
   localStorage.setItem('rv_lang', currentLang);
   setupLanguage();
   renderProducts();
-  renderReviews();
   populateWilayasDropdown();
   if (!document.getElementById('checkout-modal').classList.contains('hidden')) {
     calculateCheckoutTotals();
@@ -918,31 +872,6 @@ function closeSuccessModal() {
   document.body.style.overflow = '';
 }
 
-// Customer Reviews Rendering
-function renderReviews() {
-  const container = document.getElementById('reviews-grid') || document.getElementById('reviews-container');
-  if (!container) return;
-
-  container.innerHTML = customerReviews.map(r => `
-    <div class="bg-white p-5 rounded-2xl border border-slate-200 shadow-2xs flex flex-col justify-between hover:border-slate-300 transition-all">
-      <div>
-        <div class="flex items-center justify-between mb-3">
-          <div class="flex text-emerald-600 text-xs">
-            ${'★'.repeat(r.stars)}
-          </div>
-          <span class="text-xs text-slate-400">${r.date}</span>
-        </div>
-        <p class="text-slate-600 text-xs sm:text-sm leading-relaxed mb-4">
-          "${currentLang === 'ar' ? r.comment_ar : r.comment_en}"
-        </p>
-      </div>
-      <div class="pt-3 border-t border-slate-100 flex items-center justify-between text-xs">
-        <span class="font-bold text-[#0F172A]">${currentLang === 'ar' ? r.name_ar : r.name_en}</span>
-        <span class="text-emerald-700 font-bold text-[10px] truncate max-w-[150px] bg-slate-50 border border-slate-200 px-2 py-0.5 rounded-md">${currentLang === 'ar' ? r.product : r.product_en}</span>
-      </div>
-    </div>
-  `).join('');
-}
 
 // Toast helper
 function showToast(message) {
