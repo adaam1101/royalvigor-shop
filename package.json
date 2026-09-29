@@ -1,0 +1,26 @@
+{
+  "name": "royalvigor-shop",
+  "version": "1.0.0",
+  "description": "RoyalVigor - Natural Vitality & Couples Wellness Store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "royalvigor",
+    "algeria",
+    "cod"
+  ],
+  "author": "RoyalVigor",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "multer": "^2.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

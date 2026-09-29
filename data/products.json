@@ -1,0 +1,371 @@
+[
+  {
+    "id": "othmani",
+    "name": "عسل السر العثماني",
+    "name_en": "Ottoman Secret Vitality Honey",
+    "brand": "السر العثماني",
+    "category": "honey",
+    "category_ar": "عسل ومقويات طبيعية",
+    "category_en": "Royal Energy Honey",
+    "price": 3600,
+    "original_price": 5000,
+    "image": "/products/othmani.jpg",
+    "rating": 4.96,
+    "reviews_count": 128,
+    "badge_ar": "الأكثر طلباً",
+    "badge_en": "Best Seller",
+    "in_stock": true,
+    "short_desc_ar": "تركيبة طبيعية فريدة تجمع بين أجود أنواع العسل الطبيعي والأعشاب النادرة لطاقة وقوة ونشاط يومي.",
+    "short_desc_en": "Unique natural formula blending pure honey and rare medicinal herbs for daily energy and peak vitality.",
+    "description_ar": "عسل السر العثماني تركيبة طبيعية فريدة تجمع بين أجود أنواع العسل الطبيعي وأعشاب وعناصر طبيعية مختارة بعناية لتمنحك طاقة وحيوية ونشاطاً يومياً. يدعم الصحة العامة، يقوي المناعة، ويعزز القوة والتحمل والنشاط الحميمي للرجال.",
+    "description_en": "Ottoman Secret Honey is an authentic 100% natural formulation combining high-grade pure honey with selected botanicals to boost daily stamina, immune health, and sustained male vitality.",
+    "benefits_ar": [
+      "يعزز الطاقة والنشاط والحيوية طوال اليوم",
+      "يساعد على زيادة القوة والتحمل البدني",
+      "يدعم الصحة الجنسية والأداء الطبيعي للرجال",
+      "يقوي المناعة ويحسن الصحة العامة ومقاومة الإجهاد",
+      "يحسن المزاج ويقلل التعب والإرهاق اليومي",
+      "منتج طبيعي 100% وآمن ومضمون الجودة"
+    ],
+    "benefits_en": [
+      "Boosts energy, physical stamina, and all-day vitality",
+      "Supports natural strength and physical endurance",
+      "Enhances male intimate health and confidence",
+      "Strengthens immune defenses and reduces daily fatigue",
+      "Improves mood and relieves physical exhaustion",
+      "100% natural, safe, and quality certified"
+    ],
+    "ingredients_ar": [
+      "عسل طبيعي نقي 100%",
+      "الجينسنغ الكوري المقوي للطاقة",
+      "جذور الماكا المنشطة للرغبة والتحمل",
+      "الزنجبيل المنشط للدورة الدموية",
+      "القرفة الطبيعية المحفزة",
+      "الحبة السوداء (حبة البركة)",
+      "العكبر الطبيعي (Propolis)",
+      "حبوب اللقاح الغنية بالفيتامينات",
+      "القرنفل العطري الفعال"
+    ],
+    "ingredients_en": [
+      "100% Pure Natural Forest Honey",
+      "Korean Panax Ginseng",
+      "Peruvian Maca Root Extract",
+      "Active Ginger Extract",
+      "Natural Cinnamon",
+      "Black Seed (Nigella Sativa)",
+      "Natural Bee Propolis",
+      "Nutrient-dense Bee Pollen",
+      "Aromatic Clove"
+    ],
+    "how_to_use_ar": "ملعقة كبيرة مرة واحدة يومياً، يفضل في الصباح على معدة فارغة. يؤخذ مع كوب ماء دافئ أو حليب دافئ للحصول على أفضل النتائج.",
+    "how_to_use_en": "One tablespoon once daily, preferably in the morning on an empty stomach. Take with a glass of warm water or milk for optimal results.",
+    "warnings_ar": "يحفظ في مكان بارد وجاف بعيداً عن أشعة الشمس. لا يستخدم لمن هم دون 18 سنة. يستشار الطبيب في حال وجود أمراض مزمنة. غير مناسب للحامل والمرضع.",
+    "warnings_en": "Store in a cool dry place away from direct sunlight. Not for individuals under 18 years old. Consult a physician if you have chronic medical conditions. Not suitable for pregnant or nursing women.",
+    "specs_ar": "مرطبان زجاجي محكم الإغلاق في علبة فاخرة (Net: 240g)",
+    "specs_en": "Sealed glass jar in luxury embossed box (Net: 240g)"
+  },
+  {
+    "id": "shaddad",
+    "name": "عسل شداد القوة",
+    "name_en": "Shaddad Al-Quwa Herbal Honey",
+    "brand": "شداد القوة",
+    "category": "honey",
+    "category_ar": "عسل ومقويات طبيعية",
+    "category_en": "Royal Energy Honey",
+    "price": 4500,
+    "original_price": 6000,
+    "image": "/products/shaddad.jpg",
+    "rating": 4.94,
+    "reviews_count": 105,
+    "badge_ar": "قوة مضاعفة",
+    "badge_en": "Double Strength",
+    "in_stock": true,
+    "short_desc_ar": "عسل طبيعي مميز لتمديد الوقت حتى 180 دقيقة وتنشيط القوة الدافعة وتعزيز الأداء والنشاط.",
+    "short_desc_en": "Potent natural herbal honey formula to prolong intimate endurance up to 180 minutes and revitalize male stamina.",
+    "description_ar": "عسل شداد القوة هو مكمل طبيعي مميز مصمم خصيصاً لدعم الأداء الذكوري، تنشيط الدورة الدموية، وإطالة مدة العلاقة الحميمة حتى 180 دقيقة بشكل طبيعي وآمن. تركيبة غنية بالأعشاب الطبيعية الفعالة لدعم القوة والتحمل والنشاط اليومي.",
+    "description_en": "Shaddad Al-Quwa Honey is an elite natural formulation crafted to extend intimate endurance, promote blood circulation, and deliver peak physical prowess.",
+    "benefits_ar": [
+      "تمديد الوقت: يساعد على إطالة مدة العلاقة الحميمة حتى 180 دقيقة",
+      "تنشيط القوة الدافعة للجسم والكلية وتعزيز الحيوية",
+      "تأثير قوي وفعال: يعزز الأداء الجنسي ويحسن الحيوية والنشاط",
+      "آمن للاستخدام: تركيبة طبيعية وآمنة عند الاستخدام الصحيح"
+    ],
+    "benefits_en": [
+      "Extends intimate duration and endurance significantly up to 180 minutes",
+      "Boosts vitality, stamina, and physical drive",
+      "Fast, noticeable enhancement in male confidence and performance",
+      "100% natural and safe formula when used as directed"
+    ],
+    "ingredients_ar": [
+      "الجينسنغ: يعزز الطاقة والقدرة البدنية ويقاوم التعب",
+      "الماكا: تدعم الرغبة والأداء والتحمل",
+      "الزنجبيل: يحسن الدورة الدموية وينشط الجسم",
+      "الحلبة: تدعم مستوى التستوستيرون طبيعياً",
+      "عسل نقي طبيعي وخلاصات نباتية منتقاة"
+    ],
+    "ingredients_en": [
+      "Korean Ginseng: Enhances stamina and physical endurance",
+      "Maca Root: Supports vitality, libido, and energy levels",
+      "Ginger: Promotes healthy circulation and body warmth",
+      "Fenugreek: Naturally supports healthy testosterone levels",
+      "Pure Natural Honey and herbal matrix"
+    ],
+    "how_to_use_ar": "تناول كيس واحد قبل العلاقة الحميمة بـ 30 - 60 دقيقة مع كوب من الماء.",
+    "how_to_use_en": "Consume 1 sachet 30 to 60 minutes prior to intimacy with a glass of water.",
+    "warnings_ar": "للاستخدام من قبل البالغين فقط. لا تتجاوز الجرعة الموصى بها. لا يستخدم مع أمراض القلب أو الضغط إلا بعد استشارة الطبيب. يحفظ في مكان بارد وجاف بعيداً عن متناول الأطفال.",
+    "warnings_en": "For adult use only. Do not exceed the recommended dose. Consult your physician if you have cardiovascular conditions. Store in a cool dry place away from children.",
+    "specs_ar": "علبة تحتوي على 15 كيس × 20 غرام (Net: 20g x 15 sachets)",
+    "specs_en": "Box containing 15 sachets x 20g (Net: 300g)"
+  },
+  {
+    "id": "hilti-honey",
+    "name": "عسل هيلتي التركي (HILTI Honey)",
+    "name_en": "HILTI Turkish Pure Herbal Honey",
+    "brand": "HILTI / evelle",
+    "category": "honey",
+    "category_ar": "عسل ومقويات طبيعية",
+    "category_en": "Royal Energy Honey",
+    "price": 6500,
+    "original_price": 8500,
+    "image": "/products/hilti-honey.jpg",
+    "rating": 4.88,
+    "reviews_count": 115,
+    "badge_ar": "عسل أصلي مستورد",
+    "badge_en": "Original Formula",
+    "in_stock": true,
+    "short_desc_ar": "مكمل غذائي عشبي تركي شهير لزيادة الرغبة، النشاط، وتحسين الأداء والتحمل للرجال.",
+    "short_desc_en": "Renowned Turkish herbal honey formulated to boost stamina, drive, and endurance.",
+    "description_ar": "عسل هيلتي (Make Love) مكمل غذائي عشبي طبيعي 100% مستخلص من أجود أنواع العسل والأعشاب التركية العريقة، يعمل على تحفيز النشاط البدني والحميمي وزيادة القدرة والتحمل وتأخير القذف بشكل طبيعي بدون أي إضافات ضارة.",
+    "description_en": "HILTI Honey (Make Love) is a 100% natural herbal honey imported from Turkey. Combining raw honey, maca root, ginseng, and ginger, it delivers an instant surge of stamina and vitality.",
+    "benefits_ar": [
+      "تعزيز القدرة الجنسية والرغبة بشكل فوري",
+      "زيادة الرغبة والنشاط والتحمل البدني",
+      "تحسين الأداء وإطالة مدة العلاقة الحميمة",
+      "مكونات طبيعية 100% آمنة وبدون أعراض جانبية"
+    ],
+    "benefits_en": [
+      "Immediate surge in male desire and stamina",
+      "Noticeable enhancement in physical and sexual endurance",
+      "Supports prolonged intimate sessions naturally",
+      "100% pure herbal formulation with no synthetic chemicals"
+    ],
+    "ingredients_ar": [
+      "العسل الطبيعي الصافي المنقى",
+      "الزنجبيل البري المحفز للدورة الدموية",
+      "الماكا العضوية الداعمة للرغبة",
+      "الجينسنغ الآسيوي المعزز للطاقة والتحمل"
+    ],
+    "ingredients_en": [
+      "Pure Natural Flower Honey",
+      "Wild Ginger root extract",
+      "Peruvian Maca root",
+      "Korean Panax Ginseng"
+    ],
+    "how_to_use_ar": "يؤخذ كيس واحد يومياً مذاب في كوب ماء دافئ أو يتم تناوله مباشرة قبل النشاط بـ 45 دقيقة.",
+    "how_to_use_en": "Consume 1 sachet daily dissolved in warm water or taken directly 45 minutes prior to intimacy.",
+    "warnings_ar": "للرجال البالغين فقط. لا تتجاوز الجرعة الموصى بها (كيس واحد يومياً). لا يستخدم مع أمراض القلب أو الضغط إلا بعد استشارة الطبيب. يحفظ في مكان بارد وجاف.",
+    "warnings_en": "For adult men only. Do not exceed 1 sachet per day. Consult physician if diagnosed with cardiovascular conditions.",
+    "specs_ar": "علبة تحتوي على 24 كيس × 20 غرام (Net: 20g x 24 sachets)",
+    "specs_en": "Box containing 24 convenient sachets x 20g (Net: 480g)"
+  },
+  {
+    "id": "bio-herbs",
+    "name": "عسل الملوك الملكي (BIO-HERBS)",
+    "name_en": "BIO-HERBS Royal King Honey",
+    "brand": "Dr's Secret",
+    "category": "honey",
+    "category_ar": "عسل ومقويات طبيعية",
+    "category_en": "Royal Energy Honey",
+    "price": 4500,
+    "original_price": 6000,
+    "image": "/products/bio-herbs.jpg",
+    "rating": 4.97,
+    "reviews_count": 98,
+    "badge_ar": "تركيبة ملكية نقية",
+    "badge_en": "Pure Royal Formula",
+    "in_stock": true,
+    "short_desc_ar": "عسل الملوك الطبيعي الفاخر بغذاء ملكات النحل وحبوب اللقاح لطاقة ومناعة فائقة.",
+    "short_desc_en": "Premium Royal King Honey with royal jelly, bee pollen, and rainforest herbs.",
+    "description_ar": "عسل الملوك الملكي BIO-HERBS من دكتورز سيكريت هو الإكسير الطبيعي الفاخر المصمم خصيصاً للرجال الراغبين في تجربة استثنائية. غني بعسل النحل الجبلي النقي، غذاء ملكات النحل، وحبوب اللقاح المختارة لتعزيز المناعة، مضاعفة الطاقة، ودعم النشاط البدني والزوجي.",
+    "description_en": "Dr's Secret BIO-HERBS Royal King Honey is an elite natural formulation crafted with rainforest pure honey, concentrated royal jelly, and bee pollen to revitalize male wellness and vitality.",
+    "benefits_ar": [
+      "تعزيز المناعة والصحة العامة ومقاومة الإجهاد",
+      "زيادة ملحوظة في الطاقة والحيوية والنشاط اليومي",
+      "مصدر طبيعي وفوري للطاقة والتحمل البدني",
+      "أداء حميمي راقي وثقة مطلقة مستدامة"
+    ],
+    "benefits_en": [
+      "Strengthens overall immunity, stamina, and vitality",
+      "Provides sustained natural energy without sudden crashes",
+      "100% natural revitalizing source for physical vigor",
+      "Premium intimacy performance and enhanced satisfaction"
+    ],
+    "ingredients_ar": [
+      "عسل نقي طبيعي 100%",
+      "غذاء ملكات النحل المركز (Royal Jelly)",
+      "حبوب اللقاح الطبيعية الغنية بالفيتامينات والمعادن",
+      "أعشاب استوائية طبيعية نادرة مختارة"
+    ],
+    "ingredients_en": [
+      "100% Pure Natural Forest Honey",
+      "Concentrated Royal Bee Jelly",
+      "Nutrient-dense Natural Bee Pollen",
+      "Rare Herbal Rainforest Botanical Extracts"
+    ],
+    "how_to_use_ar": "يؤخذ كيس واحد يومياً مذاب في كوب ماء دافئ أو يتم تناوله مباشرة.",
+    "how_to_use_en": "Take 1 sachet daily dissolved in warm water, juice, or consumed directly.",
+    "warnings_ar": "منتج طبيعي 100% عالي الجودة. لا يستخدم كبديل عن نظام غذائي متنوع. يحفظ في مكان بارد وجاف بعيداً عن متناول الأطفال.",
+    "warnings_en": "100% natural dietary supplement. Store in a cool, dry place away from direct sunlight and children.",
+    "specs_ar": "علبة ذهبية فاخرة تحتوي على 10 أكياس × 30 غرام (Net: 30g x 10 sachets)",
+    "specs_en": "Luxury gold embossed box with 10 sachets x 30g (Net: 300g)"
+  },
+  {
+    "id": "vitamax-doubleshot",
+    "name": "عسل فيتاماكس دبل شوت (VITAMAX)",
+    "name_en": "VITAMAX DOUBLESHOT Energy Honey",
+    "brand": "VITAMAX",
+    "category": "honey",
+    "category_ar": "عسل ومقويات طبيعية",
+    "category_en": "Royal Energy Honey",
+    "price": 4500,
+    "original_price": 6000,
+    "image": "/products/vitamax-doubleshot.jpg",
+    "rating": 4.92,
+    "reviews_count": 104,
+    "badge_ar": "طاقة فورية",
+    "badge_en": "Fast Acting",
+    "in_stock": true,
+    "short_desc_ar": "مشروب فوري ممتاز من العسل الصافي والماكا والجينسنغ الكوري لنشاط فوري وتركيز عالي.",
+    "short_desc_en": "Premium instant honey drink infused with Maca & Korean Ginseng for instant drive.",
+    "description_ar": "فيتاماكس دبل شوت هو الخيار الأول للرجال الباحثين عن طاقة سريعة وانتعاش فوري. يجمع بين العسل النقي وجذور الماكا والجينسنغ الكوري ليمنحك قوة بدنية عالية، تحسين التركيز والذاكرة، وأداء جنسي قوي ومستقر.",
+    "description_en": "VITAMAX DOUBLESHOT delivers an instant surge of stamina, mental clarity, and peak physical prowess. Combining premium pure honey with Peruvian Maca and Korean Panax Ginseng.",
+    "benefits_ar": [
+      "طاقة فورية ونشاط عالي ملحوظ يدوم طويلاً",
+      "تعزيز الأداء والقدرة والتحمل في اللحظات المهمة",
+      "تحسين التركيز والذاكرة والنشاط الذهني والبدني",
+      "يدعم المناعة والصحة العامة ومكافحة الإرهاق"
+    ],
+    "benefits_en": [
+      "Instant high energy and prolonged endurance",
+      "Enhances male performance and peak stamina",
+      "Improves mental clarity, alertness, and focus",
+      "Boosts immune defenses and overall well-being"
+    ],
+    "ingredients_ar": [
+      "العسل الطبيعي المنقى (Pure Natural Honey)",
+      "الماكا الطبيعية الفاخرة (Premium Maca Root)",
+      "الجينسنغ الكوري الفاخر (Korean Red Ginseng)",
+      "مزيج أعشاب منتقاة لتعزيز الامتصاص الفوري"
+    ],
+    "ingredients_en": [
+      "Pure Natural Instant Honey",
+      "Pure Peruvian Maca Root extract",
+      "Korean Red Panax Ginseng",
+      "Selected herbal botanical matrix"
+    ],
+    "how_to_use_ar": "يؤخذ كيس واحد مذاب في كوب ماء دافئ أو يؤخذ مباشرة قبل النشاط بـ 30 إلى 45 دقيقة.",
+    "how_to_use_en": "Consume 1 sachet dissolved in warm water or directly 30 to 45 minutes prior to activity.",
+    "warnings_ar": "لا يستخدم من قبل الأطفال. لا يستخدم مع الحمل أو الرضاعة. يحفظ في مكان بارد وجاف بعيداً عن الضوء والرطوبة.",
+    "warnings_en": "Not for minors. Keep in a dry, cool place away from moisture and direct sunlight.",
+    "specs_ar": "علبة سوداء أنيقة ومحكمة تحتوي على 10 أكياس × 25 غرام (Net: 25g x 10 sachets)",
+    "specs_en": "Matte black luxury box with 10 sachets x 25g (Net: 250g)"
+  },
+  {
+    "id": "power-horse",
+    "name": "قوة الحصان (Power Horse)",
+    "name_en": "Power Horse (sildava)",
+    "brand": "Sildava",
+    "category": "herbal",
+    "category_ar": "أعشاب ومقويات طبيعية",
+    "category_en": "Natural Herbal Vitality",
+    "price": 3800,
+    "original_price": 5200,
+    "image": "/products/power-horse.jpg",
+    "rating": 4.9,
+    "reviews_count": 86,
+    "badge_ar": "الأكثر طلباً",
+    "badge_en": "Best Seller",
+    "in_stock": true,
+    "short_desc_ar": "دعم طبيعي لتعزيز القوة والحيوية وتحسين الأداء والنشاط البدني.",
+    "short_desc_en": "Natural herbal support for male vitality, stamina, and long-lasting energy.",
+    "description_ar": "تركيبة مختارة فائقة الجودة من الأعشاب الطبيعية الفعالة التي تساعد على دعم الطاقة والقدرة البدنية وزيادة الرغبة وتحسين الأداء بشكل عام، مع التخلص التام من الإجهاد والإرهاق اليومي.",
+    "description_en": "A premium blend of selected natural herbs formulated to enhance energy, stamina, desire, and overall physical performance while relieving fatigue.",
+    "benefits_ar": [
+      "تعزيز الطاقة والحيوية والتخلص من الإرهاق والتعب",
+      "دعم الأداء وتحسين الرغبة بشكل طبيعي 100%",
+      "تحسين التحمل والقوة البدنية لأداء أفضل وأطول",
+      "تركيبة عشبية غنية وسريعة الامتصاص"
+    ],
+    "benefits_en": [
+      "Boosts energy and vitality, combats fatigue and stress",
+      "Supports natural male desire and performance 100%",
+      "Improves endurance, physical stamina, and confidence",
+      "Fast-acting natural herbal formula with proven results"
+    ],
+    "ingredients_ar": [
+      "الجينسنغ: يعزز الطاقة والقدرة البدنية ويقاوم التعب",
+      "الماكا: تدعم الرغبة والأداء والتحمل",
+      "الزنجبيل: يحسن الدورة الدموية وينشط الجسم",
+      "الحلبة: تدعم مستوى التستوستيرون طبيعياً"
+    ],
+    "ingredients_en": [
+      "Ginseng: Enhances stamina and physical endurance",
+      "Maca Root: Supports vitality, libido, and energy levels",
+      "Ginger: Promotes healthy circulation and body warmth",
+      "Fenugreek: Naturally supports healthy testosterone levels"
+    ],
+    "how_to_use_ar": "تناول حبة واحدة قبل العلاقة الحميمة بـ 30 - 60 دقيقة مع كوب من الماء.",
+    "how_to_use_en": "Take 1 tablet 30 to 60 minutes before intimacy with a full glass of water.",
+    "warnings_ar": "للاستخدام من قبل البالغين فقط. لا تتجاوز الجرعة الموصى بها. لا يستخدم مع أمراض القلب أو الضغط إلا بعد استشارة الطبيب. يحفظ في مكان بارد وجاف.",
+    "warnings_en": "For adult use only. Do not exceed the recommended dose. Consult your doctor if you have heart conditions or hypertension. Store in a cool dry place.",
+    "specs_ar": "عبوة آمنة وسهلة الحمل - مصنعة وفق أعلى معايير الجودة",
+    "specs_en": "Discreet travel-friendly container - certified pharmaceutical quality"
+  },
+  {
+    "id": "liogra-200",
+    "name": "ليوغرا 200 ملغ (Liogra-200)",
+    "name_en": "Liogra-200 (Sildenafil Citrate 200mg)",
+    "brand": "Liogra",
+    "category": "tablets",
+    "category_ar": "أقراص الفعالية القصوى",
+    "category_en": "Maximum Strength Tablets",
+    "price": 2900,
+    "original_price": 4000,
+    "image": "/products/liogra-200.jpg",
+    "rating": 4.95,
+    "reviews_count": 142,
+    "badge_ar": "قوة مضاعفة",
+    "badge_en": "Double Strength",
+    "in_stock": true,
+    "short_desc_ar": "أقراص فعالة وقوية لعلاج ضعف الانتصاب وتحقيق أقصى درجات الصلابة والثقة.",
+    "short_desc_en": "Ultra-potent sildenafil citrate tablets for firm, long-lasting performance.",
+    "description_ar": "تحتوي أقراص ليوغرا 200 على المادة الفعالة سيلدينافيل سيترات بتركيز 200 ملغ والتي تساعد على زيادة تدفق الدم إلى العضو الذكري مما يساعد على تحقيق انتصاب قوي وطويل الأمد عند التحفيز، مع استعادة كاملة للثقة بالنفس.",
+    "description_en": "Liogra-200 contains 200mg of pharmaceutical-grade Sildenafil Citrate, increasing blood flow to deliver firm, long-lasting erections and unparalleled intimacy confidence.",
+    "benefits_ar": [
+      "فعال وسريع المفعول خلال 30 إلى 60 دقيقة",
+      "يستمر التأثير القوي من 4 إلى 6 ساعات متواصلة",
+      "يحسن الأداء العام والثقة التامة بالنفس",
+      "آمن ومرخص عند الاستخدام الصحيح"
+    ],
+    "benefits_en": [
+      "Fast-acting within 30 to 60 minutes",
+      "Long-lasting effect lasting 4 to 6 hours",
+      "Elevates male performance and total intimate confidence",
+      "Clinically formulated and verified safe when used as directed"
+    ],
+    "ingredients_ar": [
+      "كل قرص مغلف يحتوي على: سيلدينافيل سيترات BP بما يعادل 200 ملغ سيلدينافيل خالص (Sildenafil Citrate 200mg)",
+      "مواد إضافية صيدلانية ومغطى بطبقة أكسيد الحديد الأحمر"
+    ],
+    "ingredients_en": [
+      "Each film-coated tablet contains: Sildenafil Citrate BP equiv. to Sildenafil 200mg",
+      "Excipients Q.S. Color: Red Oxide of Iron"
+    ],
+    "how_to_use_ar": "تناول قرصاً واحداً قبل النشاط بـ 30 - 60 دقيقة مع كوب كامل من الماء.",
+    "how_to_use_en": "Take 1 tablet 30 to 60 minutes prior to intimacy with a glass of water.",
+    "warnings_ar": "لا يستخدم مع أدوية النترات أو أدوية القلب إلا بتوجيه من الطبيب. لا تتجاوز قرصاً واحداً خلال 24 ساعة. غير مناسب لمن هم دون 18 سنة. يحفظ بعيداً عن الرطوبة وعن متناول الأطفال.",
+    "warnings_en": "Do NOT take with nitrates or heart medication. Do not exceed 1 tablet per 24 hours. Not suitable for minors under 18. Keep out of reach of children.",
+    "specs_ar": "شريط أصلي مغلف يحتوي على 4 أقراص حمراء عالية الفعالية",
+    "specs_en": "Blister pack containing 4 high-potency red tablets"
+  }
+]
